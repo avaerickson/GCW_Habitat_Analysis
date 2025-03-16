@@ -4,7 +4,7 @@ ________________________________________________________________
 
 The Golden-cheeked Warbler is a bird endemic to the Ashe Juniper and Oak woodlands of Texas. Since 1990, the Warbler has been on the U.S. Fish and Wildlife Service’s endangered species list due to “habitat loss and fragmentation”.
 
-However, the General Land Office and the Texas Public Policy Foundation have filed lawsuits in an attempt to remove the Warbler from the endangered species list.This decision will remove protections of the Oak-Juniper woodlands, and may open the door for increased development of natural Texas landscapes.
+However, the General Land Office and the Texas Public Policy Foundation have filed lawsuits in an attempt to remove the Warbler from the endangered species list (Reed & Metzger, 2023). This decision will remove protections of the Oak-Juniper woodlands, and may open the door for increased development of natural Texas landscapes.
 
 In my project, I evaluated how Warbler habitat has changed from 2001 to 2021 in an effort to determine if delisting the bird is justified. In order for the Warbler to be justifiably delisted, several requirements laid out in a “recovery plan” by the USFWS must be met. This recovery plan emphasizes that there must be “at least one viable, self-sustaining population in each of 8 Recovery Regions” throughout the Warbler’s breeding range (USFWS, 1991).
 
@@ -34,3 +34,17 @@ Both maps resulted in the same graduated symbols, so the regions in which a lot 
 In conclusion, there has been Warbler habitat lost to development in every single Recovery Region. Because habitat is predictive of Warbler occurrence, this suggests that there may be less Warblers now than there were in 2001.Specifically, a lot of development is happening along the I-35 corridor,
 With the most forest-to-developed land occurring in Region 6, around San Antonio. These are areas where we can try and focus recovery efforts the most. Further research on this project should include field verification of Golden-cheeked Warbler occurance, as well as fragementation and patch size analyses, which provide insight into species wellbeing. 
 
+Data:
+Texas Counties Data
+https://gis-txdot.opendata.arcgis.com/datasets/texas-county-boundaries/explore 
+“Land cover classification”, raster files, 2001 and 2021, from MRLC website 
+https://www.mrlc.gov/viewer/ 
+
+Other Sources:
+Morrison et al., 2010
+https://nri.tamu.edu/media/1107/gcwa_statewide_report.pdf 
+Reed & Metzger, 2023
+https://environmentamerica.org/texas/articles/fish-and-wildlife-service-will-soon-decide-
+fate-of-golden-cheeked-warbler/  
+USFWS Recovery Plan
+https://www.edwardsaquifer.org/wp-content/uploads/2019/02/1991_FWS_Golden-CheekedWarblerRecoveryPlan.pdf 
