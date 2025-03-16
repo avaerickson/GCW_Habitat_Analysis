@@ -23,7 +23,7 @@ First, I reclassified the land classes so that it was easier to look specificall
 Grouping together all NLCD forest classes did not specifically isolate Oak-Juniper woodland, however this classification followed the Oak-Juniper range closely and was enough to give good insight into where development was happening.
 
 Next, I created transition matrices for each of the 8 regions. I was specifically looking at the numbers highlighted in purple which represent the amount of land that was forest in 2001 that turned into developed land by 2021 (measured in km^2).
-![Transition Matrices](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcwMatrices.png?raw=true)
+![Transition Matrices](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_TMatrix.png?raw=true)
 
 Then, I used the results from the transition matrix to update the attribute table of a shapefile for the entire breeding range, which allowed me to display the results.
 ________________________________________________________________
