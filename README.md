@@ -11,7 +11,7 @@ In my project, I evaluated how Warbler habitat has changed from 2001 to 2021 in 
 According to a study done at Texas A&M, habitat is the strongest predictor of Warbler occurrence,  so I evaluated the change in oak-juniper woodland in each of the 8 Recovery Regions to determine if Warbler population stability has increased or decreased, thus providing insight for the delisting decision (Morrison et al., 2010).
 
 Here you can see a map of the 8 Recovery Regions. 
-________________________________________________________________
+![Recovery Regions](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_recovery_regions.png?raw=true)
 
 And here is a map that includes the warbler habitat.
 ________________________________________________________________
