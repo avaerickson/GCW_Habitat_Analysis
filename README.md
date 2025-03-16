@@ -14,7 +14,7 @@ Here you can see a map of the 8 Recovery Regions.
 ![Recovery Regions](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_recovery_regions.png?raw=true)
 
 And here is a map that includes the warbler habitat.
-________________________________________________________________
+![GCW Habitat](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_habitat.png?raw=true)
 
 My objective was to characterize the transformation of Warbler habitat into developed land from 2001 to 2021 in each of the 8 Recovery Regions to gain an understanding of the stability of the species. Because I wanted to look at all 8 recovery regions separately, I used Python and arcpy functions to make the process more efficient.
 
