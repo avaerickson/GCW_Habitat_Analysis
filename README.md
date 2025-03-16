@@ -27,6 +27,7 @@ Next, I created transition matrices for each of the 8 regions. I was specificall
 
 Then, I used the results from the transition matrix to update the attribute table of a shapefile for the entire breeding range, which allowed me to display the results.
 ![Amount Developed](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_amnt_dev.png?raw=true)
+![Percent Developed](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_pct_dev.png?raw=true)
 
 Both maps resulted in the same graduated symbols, so the regions in which a lot of forest area is being developed, also have a high proportion of their forest being developed.
 
