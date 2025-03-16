@@ -37,14 +37,17 @@ With the most forest-to-developed land occurring in Region 6, around San Antonio
 Data:
 Texas Counties Data
 https://gis-txdot.opendata.arcgis.com/datasets/texas-county-boundaries/explore 
+
 “Land cover classification”, raster files, 2001 and 2021, from MRLC website 
 https://www.mrlc.gov/viewer/ 
 
 Other Sources:
 Morrison et al., 2010
 https://nri.tamu.edu/media/1107/gcwa_statewide_report.pdf 
+
 Reed & Metzger, 2023
 https://environmentamerica.org/texas/articles/fish-and-wildlife-service-will-soon-decide-
 fate-of-golden-cheeked-warbler/  
+
 USFWS Recovery Plan
 https://www.edwardsaquifer.org/wp-content/uploads/2019/02/1991_FWS_Golden-CheekedWarblerRecoveryPlan.pdf 
