@@ -27,7 +27,7 @@ Then, I used the results from the transition matrix to update the attribute tabl
 ![Amount Developed](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_amnt_dev.png?raw=true)
 ![Percent Developed](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_pct_dev.png?raw=true)
 
-Both maps resulted in the same graduated symbols, suggesting a consistent relationship between total forest area developed and the percentage forest developed. This pattern indicates that certain regions are particularly susceptibilty to forest development, likely due to preffered landscape characteristics and economic drivers influencing land development.  
+Both maps resulted in the same graduated symbols, suggesting a consistent relationship between total forest area developed and the percentage forest developed. This pattern indicates that certain regions are particularly susceptibile to forest development, likely due to preffered landscape characteristics and economic drivers influencing land development.  
 
 Overall, GCW habitat was lost to development in all 8 Recovery Regions. Because habitat is predictive of GCW occurrence, this suggests that there are less GCWs now than in 2001. Specifically, a majority of development has occured along the I-35 corridor, with the most forest-to-developed land in Region 6, near San Antonio, TX. These are areas where recovery efforts should focus. Further research on this topic should include field verification of Golden-cheeked Warbler occurance, as well as fragementation and patch size analyses, which provide greater insight into species wellbeing. 
 
