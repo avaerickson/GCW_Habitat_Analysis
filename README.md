@@ -1,5 +1,5 @@
 # GCW_Habitat_Analysis
-Independent Project, completed Fall 2024, measuring amount of Golden-cheeked Warbler habitat that was developed between 2001 and 2021.
+Independent Project, completed Fall 2024, measuring amount of Golden-cheeked Warbler habitat that was developed between 2001 and 2021. Full Python script uploaded from Jupyter Lab as gcwHabitat.ipynb
 ________________________________________________________________
 
 The Golden-cheeked Warbler (GCW) is endemic to the Ashe Juniper and Oak woodlands of Texas. Since 1991, the GCW has been listed as endangered by the U.S. Fish and Wildlife Service due to “habitat loss and fragmentation” (USFWS, 1991).
