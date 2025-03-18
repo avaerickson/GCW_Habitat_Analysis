@@ -32,6 +32,7 @@ Both maps resulted in the same graduated symbols, suggesting a consistent relati
 Overall, GCW habitat was lost to development in all 8 Recovery Regions. Because habitat is predictive of GCW occurrence, this suggests that there are less GCWs now than in 2001. Specifically, a majority of development has occured along the I-35 corridor, with the most forest-to-developed land in Region 6, near San Antonio, TX. These are areas where recovery efforts should focus. Further research on this topic should include field verification of Golden-cheeked Warbler occurance, as well as fragementation and patch size analyses, which provide greater insight into species wellbeing. 
 
 Data:
+
 Texas Counties Data
 https://gis-txdot.opendata.arcgis.com/datasets/texas-county-boundaries/explore 
 
@@ -39,12 +40,12 @@ https://gis-txdot.opendata.arcgis.com/datasets/texas-county-boundaries/explore
 https://www.mrlc.gov/viewer/ 
 
 Other Sources:
+
 Morrison et al., 2010
 https://nri.tamu.edu/media/1107/gcwa_statewide_report.pdf 
 
 Reed & Metzger, 2023
-https://environmentamerica.org/texas/articles/fish-and-wildlife-service-will-soon-decide-
-fate-of-golden-cheeked-warbler/  
+https://environmentamerica.org/texas/articles/fish-and-wildlife-service-will-soon-decide-fate-of-golden-cheeked-warbler/  
 
 USFWS Recovery Plan
 https://www.edwardsaquifer.org/wp-content/uploads/2019/02/1991_FWS_Golden-CheekedWarblerRecoveryPlan.pdf 
