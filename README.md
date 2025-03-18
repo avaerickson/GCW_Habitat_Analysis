@@ -18,7 +18,7 @@ Because my objective was to look at all 8 Recovery Regions separately, I used Py
 
 First, I reclassified the land classes, creating one 'developed' class, and one 'forest' class. 
 
-Note: NLCD forest reclassification did not isolate only Oak-Juniper woodland due to the land classifications available. However, my forest classification followed the Oak-Juniper range closely and was able to give relevant insight into where development had occured.
+Note: NLCD forest reclassification did not isolate only Oak-Juniper woodland due to the land classifications available. However, my forest classification followed the Oak-Juniper range closely and was able to give relevant insight into where development had occurred.
 
 Next, I created transition matrices for each of the 8 regions. I was specifically looking at the numbers highlighted in purple, which represent the amount of land that was forest in 2001 but had transitioned into developed land by 2021 (measured in km^2).
 ![Transition Matrices](https://github.com/avaerickson/GCW_Habitat_Analysis/blob/main/images/gcw_TMatrix.png?raw=true)
